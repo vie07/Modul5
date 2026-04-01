@@ -1,0 +1,15 @@
+D:\vie\Modul5_103022400147\Modul5_103022400147\bin\Debug\net10.0\Modul5_103022400147.exe
+D:\vie\Modul5_103022400147\Modul5_103022400147\bin\Debug\net10.0\Modul5_103022400147.deps.json
+D:\vie\Modul5_103022400147\Modul5_103022400147\bin\Debug\net10.0\Modul5_103022400147.runtimeconfig.json
+D:\vie\Modul5_103022400147\Modul5_103022400147\bin\Debug\net10.0\Modul5_103022400147.dll
+D:\vie\Modul5_103022400147\Modul5_103022400147\bin\Debug\net10.0\Modul5_103022400147.pdb
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.GeneratedMSBuildEditorConfig.editorconfig
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.AssemblyInfoInputs.cache
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.AssemblyInfo.cs
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.csproj.CoreCompileInputs.cache
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.sourcelink.json
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.dll
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\refint\Modul5_103022400147.dll
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.pdb
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\Modul5_103022400147.genruntimeconfig.cache
+D:\vie\Modul5_103022400147\Modul5_103022400147\obj\Debug\net10.0\ref\Modul5_103022400147.dll
